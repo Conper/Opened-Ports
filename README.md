@@ -1,6 +1,6 @@
 # Opened-Ports
-<br>
 
+![Oports](https://github.com/Conper/Opened-Ports/assets/79358509/5568668b-99fe-458a-87ef-51fb0129976c)
 ### OPENED-PORTS V.1.0
 <br>
 
@@ -41,5 +41,4 @@ chmod +x oports.sh
  ```· NMAP```
 <br><br>
 
-![Oports](https://github.com/Conper/Opened-Ports/assets/79358509/5568668b-99fe-458a-87ef-51fb0129976c)
 
