@@ -7,18 +7,26 @@
 ## What is it for?
 
 <h2>Port scanning and collection of the most important information:</h2>
-<ul>
-<li>-OS</li>
-<li>-Open ports</li>
-<li>-Services</li>
-<li>-Versions</li>
+
+<h1>
+ 
+ ```
++ -OS
++ -Open ports
++ -Services
++ -Versions
+ ```
+</h1>
 </ul>
 
 <h3>It can be used both to analyze the previously mentioned data in a file or create the scan from scratch and then do the analysis.       
-<h3>→ More info in oports.sh -h ←</h3>
+<h3><div align="center">→ More info in oports.sh -h ←</div></h3>
 <br>
 
-<h2>Installation process:</h2>
+### I don't know if it will work on other OS, but this script is only designed to work on Linux.<img src="https://github.com/Conper/Opened-Ports/assets/79358509/0dc94836-fb7b-4a21-9e7c-ae6957ce3dc0" width=10%>
+
+<br>
+<h2>Installation process: (Linux)</h2>
 <h4>Firstly:</h4>
 
 ```
@@ -26,7 +34,9 @@ wget https://raw.githubusercontent.com/Conper/Opened-Ports/main/oports.sh
 ```
 <h4>To be able to run it in any directory, save it here:</h4> 
 
-```/usr/bin/oports.sh```
+```
+/usr/bin/oports.sh
+```
 <h4>Give it execution permissions:</h4> 
 
 ```
@@ -40,5 +50,3 @@ chmod +x oports.sh
 
  ```· NMAP```
 <br><br>
-
-
